@@ -1,0 +1,7 @@
+#forecast {
+    background-color: #4B515D;
+    padding-top: 120px;
+}
+#card3{
+    flex-direction: column;
+}
